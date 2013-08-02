@@ -10,8 +10,8 @@
  */
 
 
-
-$conexao = new Conexao('mysql');
+// Para usar com a classe de conexão com banco de dados
+//$conexao = new Conexao('mysql');
 // include DIR.'geshi.php';
 
 // Extrair valores da sessão
